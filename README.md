@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/getsalman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Salman%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/getsalman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Salman-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:getmdsalman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-getmdsalman@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
