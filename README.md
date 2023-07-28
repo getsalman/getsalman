@@ -5,6 +5,7 @@
 
 - 🎓 &nbsp; Computer Science Engineer.
 - 💼 &nbsp; Working as a Full Stack Developer.
+- An engineer, in love with his job, Frontend Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying modern JavaScript concepts. Proficient in translating designs & wireframes into high quality code using JavaScript or TypeScript and ReactJS workflows. Can comfortably create and design RESTful API using Node.js with express framework. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to support overall performance.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
