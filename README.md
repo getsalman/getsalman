@@ -33,7 +33,7 @@ I am an experienced Frontend Developer with 5 years of expertise in designing an
 
 ## Skills
 - [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
+  [![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
 - [![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
 - [![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
 - [![Next](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true)](https://zeit.co/)
