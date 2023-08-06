@@ -32,23 +32,23 @@ I am an experienced Frontend Developer with 5 years of expertise in designing an
 - The application provided a location-based marketing platform that delivered real-time, relevant, and personalized information to consumers while they were in or near physical stores.
 
 ## Skills
-- ![JavaScript](https://github.com/getsalman/skills-logos/javascript.png)
-- ![TypeScript](https://github.com/getsalman/skills-logos/typescript.png)
-- ![ReactJS](https://github.com/getsalman/skills-logos/react.png)
-- ![Next.js](https://github.com/getsalman/skills-logos/nextjs.png)
-- ![Node.js](https://github.com/getsalman/skills-logos/nodejs.png)
-- ![Express.js](https://github.com/getsalman/skills-logos/expressjs.png)
-- ![MongoDB](https://github.com/getsalman/skills-logos/mongodb.png)
-- ![HTML](https://github.com/getsalman/skills-logos/html.png)
-- ![CSS](https://github.com/getsalman/skills-logos/css.png)
-- ![Bootstrap](https://github.com/getsalman/skills-logos/bootstrap.png)
-- ![Sanity.io](https://github.com/getsalman/skills-logos/sanityio.png)
-- ![npm](https://github.com/getsalman/skills-logos/npm.png)
-- ![yarn](https://github.com/getsalman/skills-logos/yarn.png)
-- ![Nx](https://github.com/getsalman/skills-logos/nx.png)
-- ![Monorepo](https://github.com/getsalman/skills-logos/monorepo.png)
-- ![Data Structures & Algorithm](https://github.com/getsalman/skills-logos/dsa.png)
-- ![CI/CD Pipeline](https://github.com/getsalman/skills-logos/cicd.png)
+- ![JavaScript](https://github.com/getsalman/skills-logos/raw/main/javascript.png) JavaScript
+- ![TypeScript](https://github.com/getsalman/skills-logos/raw/main/typescript.png) TypeScript
+- ![ReactJS](https://github.com/getsalman/skills-logos/raw/main/react.png) ReactJS
+- ![Next.js](https://github.com/getsalman/skills-logos/raw/main/nextjs.png) Next.js
+- ![Node.js](https://github.com/getsalman/skills-logos/raw/main/nodejs.png) Node.js
+- ![Express.js](https://github.com/getsalman/skills-logos/raw/main/expressjs.png) Express.js
+- ![MongoDB](https://github.com/getsalman/skills-logos/raw/main/mongodb.png) MongoDB
+- ![HTML](https://github.com/getsalman/skills-logos/raw/main/html.png) HTML
+- ![CSS](https://github.com/getsalman/skills-logos/raw/main/css.png) CSS
+- ![Bootstrap](https://github.com/getsalman/skills-logos/raw/main/bootstrap.png) Bootstrap
+- ![Sanity.io](https://github.com/getsalman/skills-logos/raw/main/sanityio.png) sanity.io
+- ![npm](https://github.com/getsalman/skills-logos/raw/main/npm.png) npm
+- ![yarn](https://github.com/getsalman/skills-logos/raw/main/yarn.png) yarn
+- ![Nx](https://github.com/getsalman/skills-logos/raw/main/nx.png) Nx
+- ![Monorepo](https://github.com/getsalman/skills-logos/raw/main/monorepo.png) Monorepo
+- ![Data Structures & Algorithm](https://github.com/getsalman/skills-logos/raw/main/dsa.png) Data Structures & Algorithm
+- ![CI/CD Pipeline](https://github.com/getsalman/skills-logos/raw/main/cicd.png) CI/CD Pipeline
 
 ## Education
 - Visvesvaraya Technological University, Bengaluru (2014 - 2018)
