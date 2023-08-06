@@ -32,23 +32,26 @@ I am an experienced Frontend Developer with 5 years of expertise in designing an
 - The application provided a location-based marketing platform that delivered real-time, relevant, and personalized information to consumers while they were in or near physical stores.
 
 ## Skills
-- ![JavaScript](https://github.com/getsalman/skills-logos/raw/master/javascript.png) JavaScript
-- ![TypeScript](https://github.com/getsalman/skills-logos/raw/master/typescript.png) TypeScript
-- ![ReactJS](https://github.com/getsalman/skills-logos/raw/master/react.png) ReactJS
-- ![Next.js](https://github.com/getsalman/skills-logos/raw/master/nextjs.png) Next.js
+- [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
+- [![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
+- [![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
+- [![Next](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true)](https://zeit.co/)
 - ![Node.js](https://github.com/getsalman/skills-logos/raw/master/nodejs.png) Node.js
-- ![Express.js](https://github.com/getsalman/skills-logos/raw/master/expressjs.png) Express.js
+- [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 - ![MongoDB](https://github.com/getsalman/skills-logos/raw/master/mongodb.png) MongoDB
 - ![HTML](https://github.com/getsalman/skills-logos/raw/master/html.png) HTML
 - ![CSS](https://github.com/getsalman/skills-logos/raw/master/css.png) CSS
 - ![Bootstrap](https://github.com/getsalman/skills-logos/raw/master/bootstrap.png) Bootstrap
 - ![Sanity.io](https://github.com/getsalman/skills-logos/raw/master/sanityio.png) Sanity.io
-- ![npm](https://github.com/getsalman/skills-logos/raw/master/npm.png) npm
-- ![yarn](https://github.com/getsalman/skills-logos/raw/master/yarn.png) yarn
+- [![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
+- [![Yarn](https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png)](https://yarnpkg.com)
 - ![Nx](https://github.com/getsalman/skills-logos/raw/master/nx.png) Nx
 - ![Monorepo](https://github.com/getsalman/skills-logos/raw/master/monorepo.png) Monorepo
 - ![Data Structures & Algorithm](https://github.com/getsalman/skills-logos/raw/master/dsa.png) Data Structures & Algorithm
 - ![CI/CD Pipeline](https://github.com/getsalman/skills-logos/raw/master/cicd.png) CI/CD Pipeline
+- [![Jenkins](http://jenkins-ci.org/sites/default/files/jenkins_logo.png)](https://jenkins.io/)
+- [![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)](https://aws.amazon.com/es/)
 
 ## Education
 - Visvesvaraya Technological University, Bengaluru (2014 - 2018)
