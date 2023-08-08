@@ -46,10 +46,9 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; An engineer, in love with his job, Frontend Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying modern JavaScript concepts <br/><br/>
- ❤️ &emsp; Proficient in translating designs & wireframes into high quality code using JavaScript or TypeScript and ReactJS workflows. <br/><br/>
- ❤️ &emsp; Can comfortably create and design RESTful API using Node.js with express framework. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to support overall performance. <br/><br/>
+   😊&emsp; An engineer, in love with his job, Frontend Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying modern JavaScript concepts <br/><br/>
+  😊&emsp; Proficient in translating designs & wireframes into high quality code using JavaScript or TypeScript and ReactJS workflows. <br/><br/>
+  😊&emsp; Can comfortably create and design RESTful API using Node.js with express framework. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to support overall performance. <br/><br/>
  📧 &emsp; Reach me anytime: getmdsalman@gmail.com<br/><br/>
 </p>
 <br/>
@@ -78,10 +77,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![TS-Node](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 <br/>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/getsalman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
