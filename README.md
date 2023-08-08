@@ -52,8 +52,6 @@
  ❤️ &emsp; Can comfortably create and design RESTful API using Node.js with express framework. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to support overall performance. <br/><br/>
  📧 &emsp; Reach me anytime: getmdsalman@gmail.com<br/><br/>
 </p>
-
-<br/>
 <br/>
 <br/>
 
@@ -76,8 +74,10 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ORM]([https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white])
-
+![ORM](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
 
