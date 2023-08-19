@@ -46,7 +46,7 @@
    designing & implementing highly responsive user interface components by deploying modern JavaScript concepts.<br/>
   &emsp; Proficient in translating designs & wireframes into high quality code using JavaScript or TypeScript and ReactJS workflows.<br/>
   &emsp; Can comfortably create and design RESTful API using Node.js with express framework. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to support overall performance. <br/><br/>
- 📧 &emsp; Reach me anytime: getmdsalman@gmail.com<br/><br/>
+ 📧 &emsp; <h3>Reach me anytime:</h3> getmdsalman@gmail.com<br/><br/>
 </p>
 <br/>
 <br/>
