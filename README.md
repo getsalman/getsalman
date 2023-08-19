@@ -42,7 +42,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-   😊&emsp; An engineer, in love with his job, Frontend Developer with hands-on experience in identifying web-based user interactions along with 
+   😊 An engineer, in love with his job, Frontend Developer with hands-on experience in identifying web-based user interactions along with 
    designing & implementing highly responsive user interface components by deploying modern JavaScript concepts.<br/>
   &emsp; Proficient in translating designs & wireframes into high quality code using JavaScript or TypeScript and ReactJS workflows.<br/>
   &emsp; Can comfortably create and design RESTful API using Node.js with express framework. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to support overall performance. <br/><br/>
